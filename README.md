@@ -14,7 +14,7 @@ Subset construction: The subset_construction() method implements the subset cons
 Asymptotic Complexity
 Most implemented algorithms have a reasonable time complexity, but subset construction can be inefficient for complex NFAs with a large number of states and transitions. In these cases, the complexity can be exponential, resulting in poor performance.
 
-Report on the Implementation of Regular Expression to Deterministic Finite Automaton (DFA) Conversion
+## Report on the Implementation of Regular Expression to Deterministic Finite Automaton (DFA) Conversion
 Language Coding Conventions:
 The code follows Python PEP 8 coding conventions for code readability.
 Descriptive variable names are used to improve code understanding.
